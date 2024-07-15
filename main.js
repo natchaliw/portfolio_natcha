@@ -127,8 +127,8 @@ ScrollReveal().reveal('.cv-btn', {origin: 'bottom'});
 
 // ==================== Skills ====================
 ScrollReveal().reveal('.skill-title', {origin: 'top'});
-ScrollReveal().reveal('.soft-skill', {origin: 'left'});
-ScrollReveal().reveal('.strength', {origin: 'right'});
+ScrollReveal().reveal('.programming-skill', {origin: 'left'});
+ScrollReveal().reveal('.soft-skill', {origin: 'right'});
 
 // ==================== Projects ====================
 ScrollReveal().reveal('.project-title h1', {origin: 'top'});
