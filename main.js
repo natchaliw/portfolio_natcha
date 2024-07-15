@@ -1,6 +1,6 @@
 // ==================================== Typed ========================================
 const typed = new Typed("#text-typed" , {
-    strings:["Front-end Developer.","Influencer."],
+    strings:["Front-End Developer.","Influencer."],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
